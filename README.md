@@ -1,1 +1,1 @@
-# Data_Scientist_resume_template
+# Data_Scientist_resume_template_latex
